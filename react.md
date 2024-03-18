@@ -1,4 +1,4 @@
-# React && Redux Developer Practice
+# React & Redux Developer Practice
 
 ## File Structure
 - Use **camelCase** for naming convention of folders.

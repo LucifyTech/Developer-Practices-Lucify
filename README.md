@@ -7,3 +7,4 @@ Here you can find links for all the documentation related to the developer pract
 | Language/Framework | Link                |
 | ------------------ | ------------------- |
 | React              | [Link to React](react.md) |
+| Flutter            | [Link to Flutter](flutter.md) |
